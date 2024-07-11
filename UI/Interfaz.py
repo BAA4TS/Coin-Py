@@ -53,7 +53,7 @@ class UI(tk.Tk):
         """
         Configura la apariencia inicial y carga la configuración de la aplicación.
         """
-        self.title("Mini Dash")
+        self.title("Coin-Py")
 
         # Cargar tema de color
         self.style = ttk.Style(
