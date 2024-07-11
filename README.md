@@ -1,6 +1,8 @@
 # Coin-Py
 
 Una mini herramienta usando la API de CoinMarketCap para ver el precio de las criptomonedas.
+![Imagen Main](github/home.png)
+![Imagen Configuracion](github/Configuracion.png)
 
 ## Dependencias
 * `ttkbootstrap`
@@ -37,5 +39,4 @@ Una mini herramienta usando la API de CoinMarketCap para ver el precio de las cr
 
 7. Ir a configuración, pegar el token y darle a guardar.
 
-![Imagen Main](github/home.png)
-![Imagen Configuracion](github/Configuracion.png)
+
